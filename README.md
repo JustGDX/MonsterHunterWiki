@@ -1,5 +1,7 @@
 # MHW: Iceborne Wiki
 
+Live Website: https://mhwiki.netlify.app/
+
 A self-contained, single-file HTML wiki for **Monster Hunter World: Iceborne**, covering weapons, combos, monsters, armor sets, and craftable items. No build step, no dependencies, no server required — just open the file in a browser.
 
 ---
